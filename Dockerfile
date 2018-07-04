@@ -6,3 +6,4 @@ COPY ./node_modules /app/node_modules
 COPY ./package.json /app/package.json
 COPY ./public /app/public
 COPY ./routes /app/routes
+COPY ./views /app/views
